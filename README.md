@@ -9,6 +9,8 @@ This project focuses on preparing, cleaning, validating, and exploring an **artw
 - **Rijksmuseum (Amsterdam)**
 - **Interpol Stolen Artworks List**
 
+![GxgRvMc](https://github.com/user-attachments/assets/b0c5aad8-b2c8-4045-ba96-825441023f16)
+
 The dataset (210135 rows × 15 columns) required significant cleaning to ensure it was reliable and consistent for analysis. The work was conducted in **Python**, using **pandas**, **numpy**, **matplotlib**, and **missingno** for data cleaning, validation, and visualization.
 
 The objective of this project is to demonstrate my approach to handling data quality challenges, preparing datasets for further exploration, and conducting initial exploratory analysis.
